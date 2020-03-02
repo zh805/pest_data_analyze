@@ -1,0 +1,25 @@
+[2019/11/20 01:40:10] - rs485 - serCommu - INFO - slave-01 has droped *0* pests
+[2019/11/20 01:40:19] - rs485 - serCommu - INFO - slave-03 has droped *7* pests
+[2019/11/20 01:40:19] - rs485 - serCommu - ERROR - slave-03 has crazy data occurred at the 0-th record.
+[2019/11/20 01:40:19] - rs485 - serCommu - ERROR - slave-03 has crazy data occurred at the 1-th record.
+[2019/11/20 01:40:19] - rs485 - serCommu - ERROR - slave-03 has crazy data occurred at the 2-th record.
+[2019/11/20 01:40:19] - rs485 - serCommu - ERROR - slave-03 has crazy data occurred at the 3-th record.
+[2019/11/20 01:40:19] - rs485 - serCommu - ERROR - slave-03 has crazy data occurred at the 4-th record.
+[2019/11/20 01:40:19] - rs485 - serCommu - ERROR - slave-03 has crazy data occurred at the 5-th record.
+[2019/11/20 01:40:19] - rs485 - serCommu - ERROR - slave-03 has crazy data occurred at the 6-th record.
+[2019/11/20 01:40:21] - rs485 - utils - INFO - slave-03 restart success
+[2019/11/20 01:40:21] - rs485 - utils - INFO - slave-03 launch bootloader success
+[2019/11/20 01:40:21] - rs485 - utils - INFO - slave-03 launch app success
+[2019/11/20 01:40:27] - rs485 - serCommu - INFO - slave-04 has droped *2* pests
+[2019/11/20 01:40:27] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 0-th record.
+[2019/11/20 01:40:27] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 1-th record.
+[2019/11/20 01:40:29] - rs485 - utils - INFO - slave-04 restart success
+[2019/11/20 01:40:29] - rs485 - utils - INFO - slave-04 launch bootloader success
+[2019/11/20 01:40:29] - rs485 - utils - INFO - slave-04 launch app success
+[2019/11/20 01:40:33] - rs485 - serCommu - INFO - slave-05 has droped *0* pests
+[2019/11/20 01:40:38] - rs485 - serCommu - INFO - slave-06 has droped *0* pests
+[2019/11/20 01:40:43] - rs485 - utils - ERROR - slave-07 node down.
+[2019/11/20 01:40:48] - rs485 - serCommu - INFO - slave-08 has droped *0* pests
+[2019/11/20 01:40:53] - rs485 - utils - ERROR - slave-09 node down.
+[2019/11/20 01:40:57] - rs485 - serCommu - INFO - slave-10 has droped *0* pests
+[2019/11/20 01:41:02] - rs485 - serCommu - INFO - slave-11 has droped *0* pests

@@ -1,0 +1,23 @@
+[2019/11/30 05:00:10] - rs485 - serCommu - INFO - slave-01 has droped *1* pests
+[2019/11/30 05:00:10] - rs485 - serCommu - ERROR - slave-01 has crazy data occurred at the 0-th record.
+[2019/11/30 05:00:12] - rs485 - utils - INFO - slave-01 restart success
+[2019/11/30 05:00:12] - rs485 - utils - INFO - slave-01 launch bootloader success
+[2019/11/30 05:00:12] - rs485 - utils - INFO - slave-01 launch app success
+[2019/11/30 05:00:17] - rs485 - serCommu - INFO - slave-03 has droped *0* pests
+[2019/11/30 05:00:23] - rs485 - serCommu - INFO - slave-04 has droped *2* pests
+[2019/11/30 05:00:23] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 0-th record.
+[2019/11/30 05:00:23] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 1-th record.
+[2019/11/30 05:00:25] - rs485 - utils - INFO - slave-04 restart success
+[2019/11/30 05:00:25] - rs485 - utils - INFO - slave-04 launch bootloader success
+[2019/11/30 05:00:25] - rs485 - utils - INFO - slave-04 launch app success
+[2019/11/30 05:00:29] - rs485 - serCommu - INFO - slave-05 has droped *0* pests
+[2019/11/30 05:00:34] - rs485 - serCommu - INFO - slave-06 has droped *0* pests
+[2019/11/30 05:00:39] - rs485 - utils - ERROR - slave-07 node down.
+[2019/11/30 05:00:44] - rs485 - serCommu - INFO - slave-08 has droped *1* pests
+[2019/11/30 05:00:44] - rs485 - serCommu - ERROR - slave-08 has crazy data occurred at the 0-th record.
+[2019/11/30 05:00:46] - rs485 - utils - INFO - slave-08 restart success
+[2019/11/30 05:00:46] - rs485 - utils - INFO - slave-08 launch bootloader success
+[2019/11/30 05:00:46] - rs485 - utils - INFO - slave-08 launch app success
+[2019/11/30 05:00:51] - rs485 - utils - ERROR - slave-09 node down.
+[2019/11/30 05:00:56] - rs485 - serCommu - INFO - slave-10 has droped *0* pests
+[2019/11/30 05:01:01] - rs485 - serCommu - INFO - slave-11 has droped *0* pests

@@ -1,0 +1,16 @@
+[2019/12/10 12:20:09] - rs485 - serCommu - INFO - slave-01 has droped *0* pests
+[2019/12/10 12:20:20] - rs485 - serCommu - INFO - slave-03 ckFrame failed, restart launch request
+[2019/12/10 12:20:26] - rs485 - serCommu - INFO - slave-03 ckFrame failed, restart launch request
+[2019/12/10 12:20:32] - rs485 - serCommu - INFO - slave-03 ckFrame failed, restart launch request
+[2019/12/10 12:20:38] - rs485 - serCommu - INFO - slave-03 ckFrame failed, restart launch request
+[2019/12/10 12:20:45] - rs485 - serCommu - INFO - slave-03 ckFrame failed, restart launch request
+[2019/12/10 12:20:51] - rs485 - serCommu - INFO - slave-03 ckFrame failed, restart launch request
+[2019/12/10 12:20:53] - rs485 - utils - ERROR - slave-03 restart failed (b'\xc0@restart@bootloader@power-on')
+[2019/12/10 12:20:57] - rs485 - serCommu - INFO - slave-04 has droped *0* pests
+[2019/12/10 12:21:02] - rs485 - serCommu - INFO - slave-05 has droped *0* pests
+[2019/12/10 12:21:07] - rs485 - serCommu - INFO - slave-06 has droped *0* pests
+[2019/12/10 12:21:12] - rs485 - utils - ERROR - slave-07 node down.
+[2019/12/10 12:21:17] - rs485 - utils - ERROR - slave-08 node down.
+[2019/12/10 12:21:22] - rs485 - utils - ERROR - slave-09 node down.
+[2019/12/10 12:21:26] - rs485 - serCommu - INFO - slave-10 has droped *0* pests
+[2019/12/10 12:21:31] - rs485 - serCommu - INFO - slave-11 has droped *0* pests

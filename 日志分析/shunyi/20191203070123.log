@@ -1,0 +1,10 @@
+[2019/12/02 03:40:10] - rs485 - serCommu - INFO - slave-01 has droped *0* pests
+[2019/12/02 03:40:14] - rs485 - serCommu - INFO - slave-03 has droped *0* pests
+[2019/12/02 03:40:19] - rs485 - serCommu - INFO - slave-04 has droped *0* pests
+[2019/12/02 03:40:24] - rs485 - serCommu - INFO - slave-05 has droped *0* pests
+[2019/12/02 03:40:28] - rs485 - serCommu - INFO - slave-06 has droped *0* pests
+[2019/12/02 03:40:33] - rs485 - utils - ERROR - slave-07 node down.
+[2019/12/02 03:40:38] - rs485 - utils - ERROR - slave-08 node down.
+[2019/12/02 03:40:43] - rs485 - utils - ERROR - slave-09 node down.
+[2019/12/02 03:40:48] - rs485 - serCommu - INFO - slave-10 has droped *0* pests
+[2019/12/02 03:40:53] - rs485 - serCommu - INFO - slave-11 has droped *0* pests

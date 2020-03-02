@@ -1,0 +1,14 @@
+[2019/11/19 05:40:10] - rs485 - serCommu - INFO - slave-01 has droped *1* pests
+[2019/11/19 05:40:10] - rs485 - serCommu - ERROR - slave-01 has crazy data occurred at the 0-th record.
+[2019/11/19 05:40:12] - rs485 - utils - INFO - slave-01 restart success
+[2019/11/19 05:40:12] - rs485 - utils - INFO - slave-01 launch bootloader success
+[2019/11/19 05:40:12] - rs485 - utils - INFO - slave-01 launch app success
+[2019/11/19 05:40:16] - rs485 - serCommu - INFO - slave-03 has droped *0* pests
+[2019/11/19 05:40:21] - rs485 - serCommu - INFO - slave-04 has droped *0* pests
+[2019/11/19 05:40:25] - rs485 - serCommu - INFO - slave-05 has droped *0* pests
+[2019/11/19 05:40:30] - rs485 - serCommu - INFO - slave-06 has droped *0* pests
+[2019/11/19 05:40:35] - rs485 - utils - ERROR - slave-07 node down.
+[2019/11/19 05:40:40] - rs485 - serCommu - INFO - slave-08 has droped *0* pests
+[2019/11/19 05:40:45] - rs485 - utils - ERROR - slave-09 node down.
+[2019/11/19 05:40:49] - rs485 - serCommu - INFO - slave-10 has droped *0* pests
+[2019/11/19 05:40:54] - rs485 - serCommu - INFO - slave-11 has droped *0* pests

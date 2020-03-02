@@ -1,0 +1,20 @@
+[2019/11/21 09:00:09] - rs485 - serCommu - INFO - slave-01 has droped *0* pests
+[2019/11/21 09:00:14] - rs485 - serCommu - INFO - slave-03 has droped *0* pests
+[2019/11/21 09:00:22] - rs485 - serCommu - INFO - slave-04 ckFrame failed, restart launch request
+[2019/11/21 09:00:26] - rs485 - serCommu - INFO - slave-04 has droped *6* pests
+[2019/11/21 09:00:26] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 0-th record.
+[2019/11/21 09:00:26] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 1-th record.
+[2019/11/21 09:00:26] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 2-th record.
+[2019/11/21 09:00:26] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 3-th record.
+[2019/11/21 09:00:26] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 4-th record.
+[2019/11/21 09:00:26] - rs485 - serCommu - ERROR - slave-04 has crazy data occurred at the 5-th record.
+[2019/11/21 09:00:28] - rs485 - utils - INFO - slave-04 restart success
+[2019/11/21 09:00:28] - rs485 - utils - INFO - slave-04 launch bootloader success
+[2019/11/21 09:00:28] - rs485 - utils - INFO - slave-04 launch app success
+[2019/11/21 09:00:33] - rs485 - serCommu - INFO - slave-05 has droped *0* pests
+[2019/11/21 09:00:37] - rs485 - serCommu - INFO - slave-06 has droped *0* pests
+[2019/11/21 09:00:42] - rs485 - utils - ERROR - slave-07 node down.
+[2019/11/21 09:00:47] - rs485 - serCommu - INFO - slave-08 has droped *0* pests
+[2019/11/21 09:00:52] - rs485 - utils - ERROR - slave-09 node down.
+[2019/11/21 09:00:56] - rs485 - serCommu - INFO - slave-10 has droped *0* pests
+[2019/11/21 09:01:01] - rs485 - serCommu - INFO - slave-11 has droped *0* pests
