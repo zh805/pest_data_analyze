@@ -59,8 +59,8 @@ cbar.set_ticks(np.linspace(0,20,6))
 cbar.set_ticklabels( ('0', '4', '8', '12', '16', '20'))
 
 #设置label
-# ax.set_ylabel('Land Surface Emissivity',fontdict=font)
-# ax.set_xlabel('Land Surface Temperature(K)',fontdict=font) #陆地地表温度LST
+# ax.set_ylabel('yyy',fontdict=font)
+# ax.set_xlabel('xxx',fontdict=font) 
 #设置title
 # ax.set_title('虫口密度热力图', fontproperties='SimHei', fontsize=12)
 
